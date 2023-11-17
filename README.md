@@ -1,5 +1,5 @@
 
 ## XYMX Analytics
 
-# Tech stacks
-### Next.JS (Typescript)
+# Tech stack 
+#### Next.JS (Typescript)
